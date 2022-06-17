@@ -17,7 +17,7 @@
 
 ### CodeWars:
 
-![CodeWars](https://www.codewars.com/users/Isildus/badges/large)
+![CodeWars]()
 
 
 <!--
